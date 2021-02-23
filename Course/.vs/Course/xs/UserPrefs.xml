@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.Course PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Course/Program.cs">
     <Files>
-      <File FileName="Course/Program.cs" Line="23" Column="34" />
+      <File FileName="Course/Program.cs" Line="109" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,6 +13,9 @@
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

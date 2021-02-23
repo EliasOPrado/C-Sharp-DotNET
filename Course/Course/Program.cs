@@ -106,25 +106,33 @@ namespace Course
 
             // Entrada de dados ============
 
-            string frase = Console.ReadLine();
-            string x = Console.ReadLine();
-            string y = Console.ReadLine();
-            string z = Console.ReadLine();
+            //string frase = Console.ReadLine();
+            //string x = Console.ReadLine();
+            //string y = Console.ReadLine();
+            //string z = Console.ReadLine();
 
-            Console.WriteLine("Voce digitou: " + frase);
-            Console.WriteLine(x);
-            Console.WriteLine(y);
-            Console.WriteLine(z);
+            //Console.WriteLine("Voce digitou: " + frase);
+            //Console.WriteLine(x);
+            //Console.WriteLine(y);
+            //Console.WriteLine(z);
 
-            string s = Console.ReadLine();
-            string[] vet = s.Split(' ');
-            string p1 = vet[0];
-            string p2 = vet[1];
-            string p3 = vet[2];
+            //string s = Console.ReadLine();
+            //string[] vet = s.Split(' ');
+            //string p1 = vet[0];
+            //string p2 = vet[1];
+            //string p3 = vet[2];
 
-            Console.WriteLine(p1);
-            Console.WriteLine(p2);
-            Console.WriteLine(p3);
+            //Console.WriteLine(p1);
+            //Console.WriteLine(p2);
+            //Console.WriteLine(p3);
+
+            //===== fazendo a leitura de um numero inteiro
+
+            //int n1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Voce digitou");
+            //Console.Write(n1);
+
+            // 
         }
     }
 }
