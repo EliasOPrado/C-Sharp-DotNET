@@ -1,0 +1,12 @@
+/Users/macbook/software_projects/c-sharp_projects/Course/Course/bin/Debug/netcoreapp3.1/Course.deps.json
+/Users/macbook/software_projects/c-sharp_projects/Course/Course/bin/Debug/netcoreapp3.1/Course.runtimeconfig.json
+/Users/macbook/software_projects/c-sharp_projects/Course/Course/bin/Debug/netcoreapp3.1/Course.runtimeconfig.dev.json
+/Users/macbook/software_projects/c-sharp_projects/Course/Course/bin/Debug/netcoreapp3.1/Course.dll
+/Users/macbook/software_projects/c-sharp_projects/Course/Course/bin/Debug/netcoreapp3.1/Course.pdb
+/Users/macbook/software_projects/c-sharp_projects/Course/Course/obj/Debug/netcoreapp3.1/Course.csprojAssemblyReference.cache
+/Users/macbook/software_projects/c-sharp_projects/Course/Course/obj/Debug/netcoreapp3.1/Course.AssemblyInfoInputs.cache
+/Users/macbook/software_projects/c-sharp_projects/Course/Course/obj/Debug/netcoreapp3.1/Course.AssemblyInfo.cs
+/Users/macbook/software_projects/c-sharp_projects/Course/Course/obj/Debug/netcoreapp3.1/Course.csproj.CoreCompileInputs.cache
+/Users/macbook/software_projects/c-sharp_projects/Course/Course/obj/Debug/netcoreapp3.1/Course.dll
+/Users/macbook/software_projects/c-sharp_projects/Course/Course/obj/Debug/netcoreapp3.1/Course.pdb
+/Users/macbook/software_projects/c-sharp_projects/Course/Course/obj/Debug/netcoreapp3.1/Course.genruntimeconfig.cache
