@@ -1,0 +1,12 @@
+/Users/macbook/software_projects/c-sharp_projects/Exercicio-1/Exercicio-1/bin/Debug/netcoreapp3.1/Exercicio-1.deps.json
+/Users/macbook/software_projects/c-sharp_projects/Exercicio-1/Exercicio-1/bin/Debug/netcoreapp3.1/Exercicio-1.runtimeconfig.json
+/Users/macbook/software_projects/c-sharp_projects/Exercicio-1/Exercicio-1/bin/Debug/netcoreapp3.1/Exercicio-1.runtimeconfig.dev.json
+/Users/macbook/software_projects/c-sharp_projects/Exercicio-1/Exercicio-1/bin/Debug/netcoreapp3.1/Exercicio-1.dll
+/Users/macbook/software_projects/c-sharp_projects/Exercicio-1/Exercicio-1/bin/Debug/netcoreapp3.1/Exercicio-1.pdb
+/Users/macbook/software_projects/c-sharp_projects/Exercicio-1/Exercicio-1/obj/Debug/netcoreapp3.1/Exercicio-1.csprojAssemblyReference.cache
+/Users/macbook/software_projects/c-sharp_projects/Exercicio-1/Exercicio-1/obj/Debug/netcoreapp3.1/Exercicio-1.AssemblyInfoInputs.cache
+/Users/macbook/software_projects/c-sharp_projects/Exercicio-1/Exercicio-1/obj/Debug/netcoreapp3.1/Exercicio-1.AssemblyInfo.cs
+/Users/macbook/software_projects/c-sharp_projects/Exercicio-1/Exercicio-1/obj/Debug/netcoreapp3.1/Exercicio-1.csproj.CoreCompileInputs.cache
+/Users/macbook/software_projects/c-sharp_projects/Exercicio-1/Exercicio-1/obj/Debug/netcoreapp3.1/Exercicio-1.dll
+/Users/macbook/software_projects/c-sharp_projects/Exercicio-1/Exercicio-1/obj/Debug/netcoreapp3.1/Exercicio-1.pdb
+/Users/macbook/software_projects/c-sharp_projects/Exercicio-1/Exercicio-1/obj/Debug/netcoreapp3.1/Exercicio-1.genruntimeconfig.cache
