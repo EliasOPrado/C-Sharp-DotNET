@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{937C167C-C1F8-42D4-88F5-6B57AB7E2F2D}|Default">
+  <MonoDevelop.Ide.ItemProperties.poo-exercicio-3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="poo-exercicio-3/Program.cs">
+    <Files>
+      <File FileName="poo-exercicio-3/Program.cs" Line="9" Column="13" />
+      <File FileName="poo-exercicio-3/Funcionario.cs" Line="16" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="poo-exercicio-3" expanded="True">
+            <Node name="poo-exercicio-3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

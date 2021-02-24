@@ -1,16 +1,16 @@
 ﻿<Properties StartupConfiguration="{32EDCEC4-9234-4D94-AE9B-08304D68EC12}|Default">
-  <MonoDevelop.Ide.ItemProperties.poo-exercicio-2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="poo-exercicio-2/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.poo-exercicio-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="poo-exercicio-2/Produto.cs">
     <Files>
-      <File FileName="poo-exercicio-2/Program.cs" Line="10" Column="28" />
-      <File FileName="poo-exercicio-2/Produto.cs" Line="8" Column="16" NotebookId="1" />
+      <File FileName="poo-exercicio-2/Program.cs" Line="34" Column="1" />
+      <File FileName="poo-exercicio-2/Produto.cs" Line="40" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="poo-exercicio-2" expanded="True">
             <Node name="poo-exercicio-2" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Produto.cs" selected="True" />
             </Node>
           </Node>
         </State>
