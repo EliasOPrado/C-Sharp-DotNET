@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{3A401C83-89A9-441C-9808-013217752F63}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="poo-exercicio/Program.cs">
     <Files>
-      <File FileName="poo-exercicio/Program.cs" Line="11" Column="13" />
+      <File FileName="poo-exercicio/Program.cs" Line="35" Column="10" />
       <File FileName="poo-exercicio/Person.cs" />
     </Files>
     <Pads>
@@ -19,7 +19,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.poo-exercicio FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.poo-exercicio PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
