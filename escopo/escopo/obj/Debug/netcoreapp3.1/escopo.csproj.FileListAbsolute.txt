@@ -1,0 +1,12 @@
+/Users/macbook/Projects/escopo/escopo/bin/Debug/netcoreapp3.1/escopo.deps.json
+/Users/macbook/Projects/escopo/escopo/bin/Debug/netcoreapp3.1/escopo.runtimeconfig.json
+/Users/macbook/Projects/escopo/escopo/bin/Debug/netcoreapp3.1/escopo.runtimeconfig.dev.json
+/Users/macbook/Projects/escopo/escopo/bin/Debug/netcoreapp3.1/escopo.dll
+/Users/macbook/Projects/escopo/escopo/bin/Debug/netcoreapp3.1/escopo.pdb
+/Users/macbook/Projects/escopo/escopo/obj/Debug/netcoreapp3.1/escopo.csprojAssemblyReference.cache
+/Users/macbook/Projects/escopo/escopo/obj/Debug/netcoreapp3.1/escopo.AssemblyInfoInputs.cache
+/Users/macbook/Projects/escopo/escopo/obj/Debug/netcoreapp3.1/escopo.AssemblyInfo.cs
+/Users/macbook/Projects/escopo/escopo/obj/Debug/netcoreapp3.1/escopo.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/escopo/escopo/obj/Debug/netcoreapp3.1/escopo.dll
+/Users/macbook/Projects/escopo/escopo/obj/Debug/netcoreapp3.1/escopo.pdb
+/Users/macbook/Projects/escopo/escopo/obj/Debug/netcoreapp3.1/escopo.genruntimeconfig.cache
