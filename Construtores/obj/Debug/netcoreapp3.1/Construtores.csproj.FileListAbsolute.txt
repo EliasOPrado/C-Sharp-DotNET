@@ -1,0 +1,12 @@
+/Users/macbook/software_projects/c-sharp_projects/Construtores/bin/Debug/netcoreapp3.1/Construtores.deps.json
+/Users/macbook/software_projects/c-sharp_projects/Construtores/bin/Debug/netcoreapp3.1/Construtores.runtimeconfig.json
+/Users/macbook/software_projects/c-sharp_projects/Construtores/bin/Debug/netcoreapp3.1/Construtores.runtimeconfig.dev.json
+/Users/macbook/software_projects/c-sharp_projects/Construtores/bin/Debug/netcoreapp3.1/Construtores.dll
+/Users/macbook/software_projects/c-sharp_projects/Construtores/bin/Debug/netcoreapp3.1/Construtores.pdb
+/Users/macbook/software_projects/c-sharp_projects/Construtores/obj/Debug/netcoreapp3.1/Construtores.csprojAssemblyReference.cache
+/Users/macbook/software_projects/c-sharp_projects/Construtores/obj/Debug/netcoreapp3.1/Construtores.AssemblyInfoInputs.cache
+/Users/macbook/software_projects/c-sharp_projects/Construtores/obj/Debug/netcoreapp3.1/Construtores.AssemblyInfo.cs
+/Users/macbook/software_projects/c-sharp_projects/Construtores/obj/Debug/netcoreapp3.1/Construtores.csproj.CoreCompileInputs.cache
+/Users/macbook/software_projects/c-sharp_projects/Construtores/obj/Debug/netcoreapp3.1/Construtores.dll
+/Users/macbook/software_projects/c-sharp_projects/Construtores/obj/Debug/netcoreapp3.1/Construtores.pdb
+/Users/macbook/software_projects/c-sharp_projects/Construtores/obj/Debug/netcoreapp3.1/Construtores.genruntimeconfig.cache
