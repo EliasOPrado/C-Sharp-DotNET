@@ -1,25 +1,22 @@
-﻿<Properties StartupConfiguration="{38164852-EAA5-422A-ACD6-4EF9AAC14028}|Default">
-  <MonoDevelop.Ide.ItemProperties.exercicio-2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="exercicio-2/Program.cs">
+﻿<Properties StartupConfiguration="{09C1FCCE-D16F-4068-928B-F5A44453496B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercicio-3/Program.cs">
     <Files>
-      <File FileName="exercicio-2/Program.cs" Line="18" Column="23" />
+      <File FileName="Exercicio-3/Program.cs" Line="9" Column="12" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="exercicio-2" expanded="True">
-            <Node name="exercicio-2" expanded="True">
+          <Node name="Exercicio-3" expanded="True">
+            <Node name="Exercicio-3" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Exercicio-3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
