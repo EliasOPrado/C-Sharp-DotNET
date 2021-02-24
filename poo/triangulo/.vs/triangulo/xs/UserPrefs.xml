@@ -1,13 +1,15 @@
-﻿<Properties StartupConfiguration="{1261F04F-38DD-41A4-9680-6F7680779DE6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Exercicio-4/Program.cs">
+﻿<Properties StartupConfiguration="{D6C94448-7F82-4A41-9416-F08C69074391}|Default">
+  <MonoDevelop.Ide.ItemProperties.triangulo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="triangulo/Program.cs">
     <Files>
-      <File FileName="Exercicio-4/Program.cs" Line="29" Column="2" />
+      <File FileName="triangulo/Program.cs" Line="77" Column="2" />
+      <File FileName="triangulo/Triangulo.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Exercicio-4" expanded="True">
-            <Node name="Exercicio-4" expanded="True">
+          <Node name="triangulo" expanded="True">
+            <Node name="triangulo" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -20,7 +22,6 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Exercicio-4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

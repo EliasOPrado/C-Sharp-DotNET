@@ -1,0 +1,12 @@
+/Users/macbook/software_projects/c-sharp_projects/poo/triangulo/triangulo/bin/Debug/netcoreapp3.1/triangulo.deps.json
+/Users/macbook/software_projects/c-sharp_projects/poo/triangulo/triangulo/bin/Debug/netcoreapp3.1/triangulo.runtimeconfig.json
+/Users/macbook/software_projects/c-sharp_projects/poo/triangulo/triangulo/bin/Debug/netcoreapp3.1/triangulo.runtimeconfig.dev.json
+/Users/macbook/software_projects/c-sharp_projects/poo/triangulo/triangulo/bin/Debug/netcoreapp3.1/triangulo.dll
+/Users/macbook/software_projects/c-sharp_projects/poo/triangulo/triangulo/bin/Debug/netcoreapp3.1/triangulo.pdb
+/Users/macbook/software_projects/c-sharp_projects/poo/triangulo/triangulo/obj/Debug/netcoreapp3.1/triangulo.csprojAssemblyReference.cache
+/Users/macbook/software_projects/c-sharp_projects/poo/triangulo/triangulo/obj/Debug/netcoreapp3.1/triangulo.AssemblyInfoInputs.cache
+/Users/macbook/software_projects/c-sharp_projects/poo/triangulo/triangulo/obj/Debug/netcoreapp3.1/triangulo.AssemblyInfo.cs
+/Users/macbook/software_projects/c-sharp_projects/poo/triangulo/triangulo/obj/Debug/netcoreapp3.1/triangulo.csproj.CoreCompileInputs.cache
+/Users/macbook/software_projects/c-sharp_projects/poo/triangulo/triangulo/obj/Debug/netcoreapp3.1/triangulo.dll
+/Users/macbook/software_projects/c-sharp_projects/poo/triangulo/triangulo/obj/Debug/netcoreapp3.1/triangulo.pdb
+/Users/macbook/software_projects/c-sharp_projects/poo/triangulo/triangulo/obj/Debug/netcoreapp3.1/triangulo.genruntimeconfig.cache
