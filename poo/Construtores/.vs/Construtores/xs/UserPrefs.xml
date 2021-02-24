@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{F9262E39-C554-433E-978F-3CAC2491D333}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Produto.cs">
+﻿<Properties StartupConfiguration="{09E42C81-9500-49A5-8BFC-8482854714C6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="construtores/Produto.cs">
     <Files>
-      <File FileName="Program.cs" Line="35" Column="58" />
-      <File FileName="Produto.cs" Line="1" Column="1" />
+      <File FileName="construtores/Program.cs" Line="9" Column="15" />
+      <File FileName="construtores/Produto.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Construtores" expanded="True">
-            <Node name="Construtores" expanded="True">
+          <Node name="construtores" expanded="True">
+            <Node name="construtores" expanded="True">
               <Node name="Produto.cs" selected="True" />
             </Node>
           </Node>
@@ -16,7 +16,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Construtores FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.construtores FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
