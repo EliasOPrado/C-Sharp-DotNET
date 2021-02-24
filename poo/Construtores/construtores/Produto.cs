@@ -37,16 +37,30 @@ namespace construtores
 
         }
 
-        public double GetPreco()
+        public string Nome
         {
-            return _preco;
+            get { return _nome; }
+            set {
+                // to use parameter you need to change nome by value
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
+            }
         }
 
-        public int GetQuantidade()
+        public double Preco
         {
-            return _quantidade;
+            get { return _preco; }
         }
 
+        public int Quantidade
+        {
+            get { return _quantidade; }
+        }
+       
+
+    
         public double ValorTotalEmEstoque()
         {
             return _preco * _quantidade;

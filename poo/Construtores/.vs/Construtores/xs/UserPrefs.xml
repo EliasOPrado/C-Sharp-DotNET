@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{09E42C81-9500-49A5-8BFC-8482854714C6}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="construtores/Produto.cs">
     <Files>
-      <File FileName="construtores/Program.cs" Line="9" Column="15" />
-      <File FileName="construtores/Produto.cs" Line="1" Column="1" />
+      <File FileName="construtores/Program.cs" Line="16" Column="48" />
+      <File FileName="construtores/Produto.cs" Line="52" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +16,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.construtores FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.construtores PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
