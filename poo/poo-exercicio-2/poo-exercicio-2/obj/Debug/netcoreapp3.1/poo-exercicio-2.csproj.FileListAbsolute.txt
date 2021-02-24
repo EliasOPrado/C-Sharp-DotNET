@@ -1,0 +1,12 @@
+/Users/macbook/software_projects/c-sharp_projects/poo/poo-exercicio-2/poo-exercicio-2/bin/Debug/netcoreapp3.1/poo-exercicio-2.deps.json
+/Users/macbook/software_projects/c-sharp_projects/poo/poo-exercicio-2/poo-exercicio-2/bin/Debug/netcoreapp3.1/poo-exercicio-2.runtimeconfig.json
+/Users/macbook/software_projects/c-sharp_projects/poo/poo-exercicio-2/poo-exercicio-2/bin/Debug/netcoreapp3.1/poo-exercicio-2.runtimeconfig.dev.json
+/Users/macbook/software_projects/c-sharp_projects/poo/poo-exercicio-2/poo-exercicio-2/bin/Debug/netcoreapp3.1/poo-exercicio-2.dll
+/Users/macbook/software_projects/c-sharp_projects/poo/poo-exercicio-2/poo-exercicio-2/bin/Debug/netcoreapp3.1/poo-exercicio-2.pdb
+/Users/macbook/software_projects/c-sharp_projects/poo/poo-exercicio-2/poo-exercicio-2/obj/Debug/netcoreapp3.1/poo-exercicio-2.csprojAssemblyReference.cache
+/Users/macbook/software_projects/c-sharp_projects/poo/poo-exercicio-2/poo-exercicio-2/obj/Debug/netcoreapp3.1/poo-exercicio-2.AssemblyInfoInputs.cache
+/Users/macbook/software_projects/c-sharp_projects/poo/poo-exercicio-2/poo-exercicio-2/obj/Debug/netcoreapp3.1/poo-exercicio-2.AssemblyInfo.cs
+/Users/macbook/software_projects/c-sharp_projects/poo/poo-exercicio-2/poo-exercicio-2/obj/Debug/netcoreapp3.1/poo-exercicio-2.csproj.CoreCompileInputs.cache
+/Users/macbook/software_projects/c-sharp_projects/poo/poo-exercicio-2/poo-exercicio-2/obj/Debug/netcoreapp3.1/poo-exercicio-2.dll
+/Users/macbook/software_projects/c-sharp_projects/poo/poo-exercicio-2/poo-exercicio-2/obj/Debug/netcoreapp3.1/poo-exercicio-2.pdb
+/Users/macbook/software_projects/c-sharp_projects/poo/poo-exercicio-2/poo-exercicio-2/obj/Debug/netcoreapp3.1/poo-exercicio-2.genruntimeconfig.cache

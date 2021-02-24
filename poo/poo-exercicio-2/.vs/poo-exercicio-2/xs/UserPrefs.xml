@@ -1,15 +1,15 @@
-﻿<Properties StartupConfiguration="{D6C94448-7F82-4A41-9416-F08C69074391}|Default">
-  <MonoDevelop.Ide.ItemProperties.triangulo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="triangulo/Program.cs">
+﻿<Properties StartupConfiguration="{32EDCEC4-9234-4D94-AE9B-08304D68EC12}|Default">
+  <MonoDevelop.Ide.ItemProperties.poo-exercicio-2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="poo-exercicio-2/Program.cs">
     <Files>
-      <File FileName="triangulo/Program.cs" Line="61" Column="37" />
-      <File FileName="triangulo/Triangulo.cs" Line="18" Column="1" NotebookId="1" />
+      <File FileName="poo-exercicio-2/Program.cs" Line="10" Column="28" />
+      <File FileName="poo-exercicio-2/Produto.cs" Line="8" Column="16" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="triangulo" expanded="True">
-            <Node name="triangulo" expanded="True">
+          <Node name="poo-exercicio-2" expanded="True">
+            <Node name="poo-exercicio-2" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
