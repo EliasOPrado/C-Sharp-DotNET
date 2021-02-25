@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{97EC3BB8-B239-4BD3-A4C7-61ABA5782A2A}|Default">
-  <MonoDevelop.Ide.ItemProperties.forEach PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="forEach/Program.cs">
+﻿<Properties StartupConfiguration="{2EB1F9B3-C1B9-41A1-B4A9-30529E8DAF62}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="matrizes/Program.cs">
     <Files>
-      <File FileName="forEach/Program.cs" Line="32" Column="14" />
+      <File FileName="matrizes/Program.cs" Line="7" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="forEach" expanded="True">
-            <Node name="forEach" expanded="True">
+          <Node name="matrizes" expanded="True">
+            <Node name="matrizes" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,6 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.matrizes FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
