@@ -1,0 +1,12 @@
+/Users/macbook/software_projects/c-sharp_projects/poo/exercicio-conta-bancaria/exercicio-conta-bancaria/bin/Debug/netcoreapp3.1/exercicio-conta-bancaria.deps.json
+/Users/macbook/software_projects/c-sharp_projects/poo/exercicio-conta-bancaria/exercicio-conta-bancaria/bin/Debug/netcoreapp3.1/exercicio-conta-bancaria.runtimeconfig.json
+/Users/macbook/software_projects/c-sharp_projects/poo/exercicio-conta-bancaria/exercicio-conta-bancaria/bin/Debug/netcoreapp3.1/exercicio-conta-bancaria.runtimeconfig.dev.json
+/Users/macbook/software_projects/c-sharp_projects/poo/exercicio-conta-bancaria/exercicio-conta-bancaria/bin/Debug/netcoreapp3.1/exercicio-conta-bancaria.dll
+/Users/macbook/software_projects/c-sharp_projects/poo/exercicio-conta-bancaria/exercicio-conta-bancaria/bin/Debug/netcoreapp3.1/exercicio-conta-bancaria.pdb
+/Users/macbook/software_projects/c-sharp_projects/poo/exercicio-conta-bancaria/exercicio-conta-bancaria/obj/Debug/netcoreapp3.1/exercicio-conta-bancaria.csprojAssemblyReference.cache
+/Users/macbook/software_projects/c-sharp_projects/poo/exercicio-conta-bancaria/exercicio-conta-bancaria/obj/Debug/netcoreapp3.1/exercicio-conta-bancaria.AssemblyInfoInputs.cache
+/Users/macbook/software_projects/c-sharp_projects/poo/exercicio-conta-bancaria/exercicio-conta-bancaria/obj/Debug/netcoreapp3.1/exercicio-conta-bancaria.AssemblyInfo.cs
+/Users/macbook/software_projects/c-sharp_projects/poo/exercicio-conta-bancaria/exercicio-conta-bancaria/obj/Debug/netcoreapp3.1/exercicio-conta-bancaria.csproj.CoreCompileInputs.cache
+/Users/macbook/software_projects/c-sharp_projects/poo/exercicio-conta-bancaria/exercicio-conta-bancaria/obj/Debug/netcoreapp3.1/exercicio-conta-bancaria.dll
+/Users/macbook/software_projects/c-sharp_projects/poo/exercicio-conta-bancaria/exercicio-conta-bancaria/obj/Debug/netcoreapp3.1/exercicio-conta-bancaria.pdb
+/Users/macbook/software_projects/c-sharp_projects/poo/exercicio-conta-bancaria/exercicio-conta-bancaria/obj/Debug/netcoreapp3.1/exercicio-conta-bancaria.genruntimeconfig.cache
