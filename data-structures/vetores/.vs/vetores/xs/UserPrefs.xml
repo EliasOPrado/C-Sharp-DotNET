@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{4C04DFB1-6DD5-4FE8-9089-4C7C666A99BE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="vetores/Product.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vetores/Program.cs">
     <Files>
-      <File FileName="vetores/Program.cs" Line="25" Column="13" />
-      <File FileName="vetores/Product.cs" Line="3" Column="27" />
+      <File FileName="vetores/Program.cs" Line="42" Column="69" />
+      <File FileName="vetores/Product.cs" Line="7" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="vetores" expanded="True">
             <Node name="vetores" expanded="True">
-              <Node name="Product.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

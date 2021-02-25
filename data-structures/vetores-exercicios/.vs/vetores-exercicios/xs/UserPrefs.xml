@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0D3EFACF-7F7B-4376-8DA3-56EFEC224425}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vetores-exercicios/Estudante.cs">
+    <Files>
+      <File FileName="vetores-exercicios/Program.cs" Line="7" Column="1" />
+      <File FileName="vetores-exercicios/Estudante.cs" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="vetores-exercicios" expanded="True">
+            <Node name="vetores-exercicios" expanded="True">
+              <Node name="Estudante.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.vetores-exercicios FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
