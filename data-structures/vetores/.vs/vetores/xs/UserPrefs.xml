@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4C04DFB1-6DD5-4FE8-9089-4C7C666A99BE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vetores/Program.cs">
+    <Files>
+      <File FileName="vetores/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.vetores FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{AE67F14A-3942-43A4-B795-D30B7B500CE1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="exercicio-conta-bancaria/ContaBancaria.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="exercicio-conta-bancaria/Program.cs">
     <Files>
-      <File FileName="exercicio-conta-bancaria/Program.cs" Line="7" Column="13" />
-      <File FileName="exercicio-conta-bancaria/ContaBancaria.cs" Line="4" Column="1" />
+      <File FileName="exercicio-conta-bancaria/Program.cs" Line="34" Column="50" />
+      <File FileName="exercicio-conta-bancaria/ContaBancaria.cs" Line="23" Column="41" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="exercicio-conta-bancaria" expanded="True">
             <Node name="exercicio-conta-bancaria" expanded="True">
-              <Node name="ContaBancaria.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -17,7 +17,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.exercicio-conta-bancaria FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.exercicio-conta-bancaria PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
